@@ -1,0 +1,14 @@
+select { 
+    display: inline;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.arrow, .arrow:hover {
+    cursor: default;
+    position: relative;
+    top: -50px;
+    left: 20px;
+}
